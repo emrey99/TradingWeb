@@ -1,5 +1,5 @@
 # Description
-Website about trading . HTML and CSS used . Flask will be added
+Website about trading . HTML and CSS used.
 
 
 # Technology
